@@ -1,0 +1,93 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "username": "john_doe_123",
+      "phone": "+1234567890",
+      "website": "https://johndoe.com",
+      "address": {
+        "street": "123 Main St",
+        "city": "Springfield",
+        "zipcode": "12345"
+      },
+      "company": {
+        "name": "Doe Inc.",
+        "catchPhrase": "Innovate and Create",
+        "bs": "innovative solutions"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "username": "jane_smith_456",
+      "phone": "+9876543210",
+      "website": "https://janesmith.com",
+      "address": {
+        "street": "456 Elm St",
+        "city": "Metropolis",
+        "zipcode": "67890"
+      },
+      "company": {
+        "name": "Smith Solutions",
+        "catchPhrase": "Smart Solutions for Smart People",
+        "bs": "efficient systems"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Michael Johnson",
+      "email": "michaeljohnson@example.com",
+      "username": "michael_j_789",
+      "phone": "+1928374650",
+      "website": "https://michaeljohnson.com",
+      "address": {
+        "street": "789 Oak St",
+        "city": "Gotham",
+        "zipcode": "13579"
+      },
+      "company": {
+        "name": "Johnson Technologies",
+        "catchPhrase": "Future of Innovation",
+        "bs": "tech-driven solutions"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Emily Davis",
+      "email": "emilydavis@example.com",
+      "username": "emily_d_101",
+      "phone": "+5647382910",
+      "website": "https://emilydavis.com",
+      "address": {
+        "street": "101 Maple St",
+        "city": "Star City",
+        "zipcode": "24680"
+      },
+      "company": {
+        "name": "Davis Enterprise",
+        "catchPhrase": "Business with Integrity",
+        "bs": "sustainable growth"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Robert Brown",
+      "email": "robertbrown@example.com",
+      "username": "robert_b_202",
+      "phone": "+2938475601",
+      "website": "https://robertbrown.com",
+      "address": {
+        "street": "202 Pine St",
+        "city": "Central City",
+        "zipcode": "97531"
+      },
+      "company": {
+        "name": "Brown Industries",
+        "catchPhrase": "Engineering the Future",
+        "bs": "innovative engineering"
+      }
+    }
+  ]
+  
